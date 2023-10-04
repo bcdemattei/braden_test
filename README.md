@@ -1,4 +1,4 @@
-# braden_test
+# Braden's README
 
 Test repo for git / github lesson
 
